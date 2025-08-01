@@ -13,7 +13,7 @@ media/
 staticfiles/
 
 # If using Django migrations
-**/migrations/*.py
+# **/migrations/*.py
 **/migrations/*.pyc
 !**/migrations/__init__.py
 
